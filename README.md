@@ -1,2 +1,1 @@
-# trainingGHA
-GHA Pipeline 
+
